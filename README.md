@@ -1,3 +1,3 @@
 # CsharpSocket
 
-Only one-way transfer (Client to Server)
+One by one TCP Network transfer (Client ←→ Server)
