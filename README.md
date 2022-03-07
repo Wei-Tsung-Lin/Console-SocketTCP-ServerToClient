@@ -1,4 +1,4 @@
-# Socket Network Tutorial (C# .net 5.0)
+# Socket Network Chat Tutorial (C# .net 5.0)
 
 * Project concept
 
