@@ -1,8 +1,8 @@
-# Socket Network Chat Tutorial (C# .net 5.0)
+# Socket Network Tutorial (C# .net 5.0)
 
 * Project concept
 
-  *  One by one TCP Network transfer (Client ←→ Server)
+  *  One by one TCP Network transfer string  (Client ←→ Server)
 
 * Important issue
 
