@@ -4,11 +4,7 @@
 
   *  One by one TCP Network transfer string  (Client ←→ Server)
 
-* Important issue
-
   *  OSI 7 layer, Socket layer (Socket, Bind, Listen, Accept, Connect, Send, Receive, Close) 
-
-* Reference: https://www.c-sharpcorner.com/UploadFile/ajyadav123/applied-C-Sharp-net-socket-programming/
 
 # Project OverView
 
