@@ -1,4 +1,4 @@
-# Console Socket TCP ChatSystem Tutorial (C# .net 5.0)
+# Console Socket TCP Chat System Tutorial (C# .net 5.0)
 
 * Project concept
 
