@@ -1,4 +1,4 @@
-# Console Socket TCP Chat System Tutorial
+# Console-SocketTCP-ServerToClient
 
   *  One by one TCP Network transfer string  (Client ←→ Server)
 
